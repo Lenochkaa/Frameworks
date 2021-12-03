@@ -1,0 +1,11 @@
+
+.uk-container {
+    display: flex;
+}
+.uk-flex-column {
+    padding: 10px;
+}
+.uk-card {
+    width: 400px;
+    height: 320px;
+}
